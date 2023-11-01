@@ -1,10 +1,10 @@
-let nombre = "Jonathan";
+let nombre = "AlexM";
 
 console.log(
   `Hola Mundo, mi nombre es ${nombre}, este es mi primer mensaje desde Node.js`
 );
 
-let edad = 39;
+let edad = 21;
 
 if (edad >= 18) {
   console.log("Eres mayor de edad");
